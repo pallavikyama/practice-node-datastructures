@@ -1,0 +1,1 @@
+console.log("Welcome to practicing node data structures!");
